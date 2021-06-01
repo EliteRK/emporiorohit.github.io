@@ -1035,13 +1035,13 @@ body.locked {
 .footer {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
-  text-transform: uppercase;
+
 }
 .footer .footer-top {
   font-size: 20px;
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
-  text-transform: uppercase;
+
   margin-bottom: 10px;
 }
 .footer .footer-bottom {
