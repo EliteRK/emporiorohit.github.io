@@ -1121,7 +1121,7 @@ body.locked {
   font-size: 42px;
   display: block;
   float: right;
-  text-transform: uppercase;
+  
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
 }
@@ -2870,7 +2870,7 @@ body.locked {
     display: block;
     float: left;
     width: 100%;
-    text-transform: uppercase;
+    
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
   }
